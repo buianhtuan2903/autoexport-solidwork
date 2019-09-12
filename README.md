@@ -25,18 +25,22 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 
 ## Example
 
+1. UI Explain:
 ![UI explain](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/detail.jpg)
 
+2. Step explain:
 ![Step explain](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/step.jpg)
 
+3. Running
 ![Running](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/run.jpg)
 
+4. Finish
 ![Finish](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/finish.jpg)
 
+5. Result
 ![Result](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/result.jpg)
 
-Demo video:
-![Demo video](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/AutoexportManual.mp4)
+Demo video: [Demo video](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/AutoexportManual.mp4)
 
 
 ## Deployment
@@ -46,6 +50,7 @@ Demo video:
 ```
 git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 ```
+
 2. Open solution by Microsoft Visual Studio 2015
 
 3. Add ```SolidWorks.Interop.sldworks.dll``` in Autoexport folder to References.
