@@ -52,11 +52,11 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 
 ## Authors
 
-* **Bui Anh Tuan** - *Personal project* 
+**Bui Anh Tuan** - *Personal project* 
 [Facebook](https://www.facebook.com/buianhtuan2903/)
 [LinkedIn](https://www.linkedin.com/in/buianhtuan2903/)
 [Website]()
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/LICENSE) file for details
