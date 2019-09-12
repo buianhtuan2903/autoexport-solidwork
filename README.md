@@ -25,6 +25,17 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 
 ## Example
 
+![UI explain](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/detail.jpg)
+
+![Step explain](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/step.jpg)
+
+![Running](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/run.jpg)
+
+![Finish](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/finish.jpg)
+
+![Result](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/result.jpg)
+
+Demo video:
 ![Demo video](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/AutoexportManual.mp4)
 
 
@@ -50,9 +61,12 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 ## Authors
 
 **Bui Anh Tuan** - *Personal project* 
-[Facebook](https://www.facebook.com/buianhtuan2903/)
-[LinkedIn](https://www.linkedin.com/in/buianhtuan2903/)
-[Website]()
+
+- [Facebook](https://www.facebook.com/buianhtuan2903/)
+
+- [LinkedIn](https://www.linkedin.com/in/buianhtuan2903/)
+
+- [Website]()
 
 ## License
 
