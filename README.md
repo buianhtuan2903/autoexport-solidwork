@@ -16,8 +16,8 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 ## Benefits
 
 - Saving time
-    Traditional way, export 100 drawings takes 60 min
-    Using tool, export 100 drawings takes 8 min + free coffee time
+     - Traditional way, export 100 drawings takes 60 min
+     - Using tool, export 100 drawings takes 8 min + free coffee time
 
 - Keep sanity, no boring and discouragement anymore
 
