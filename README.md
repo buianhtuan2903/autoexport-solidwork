@@ -8,11 +8,10 @@ Desktop tool for Mechanic Engineer to auto export Solidworks drawings to PDF, DW
 
 ```
 git clone https://github.com/anhtuan2903/autoexport-solidwork.git
-
 ```
-2. Navigate to ``` Autoexport\bin\Release ```
+2. Navigate to ```Autoexport\bin\Release```
 
-3. Run ``` Autoexport.exe```
+3. Run ```Autoexport.exe```
 
 ## Benefits
 
@@ -26,8 +25,7 @@ git clone https://github.com/anhtuan2903/autoexport-solidwork.git
 
 ## Example
 
-Demo video:
-
+![Demo video](https://github.com/anhtuan2903/autoexport-solidwork/blob/master/Assets/AutoexportManual.mp4)
 
 
 ## Deployment
@@ -36,7 +34,6 @@ Demo video:
 
 ```
 git clone https://github.com/anhtuan2903/autoexport-solidwork.git
-
 ```
 2. Open solution by Microsoft Visual Studio 2015
 
