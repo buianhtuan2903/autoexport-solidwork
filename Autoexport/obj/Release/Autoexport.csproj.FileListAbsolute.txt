@@ -1,0 +1,13 @@
+D:\2019_Macro\Autoexport\Autoexport\bin\Release\Autoexport.exe.config
+D:\2019_Macro\Autoexport\Autoexport\bin\Release\Autoexport.exe
+D:\2019_Macro\Autoexport\Autoexport\bin\Release\Autoexport.pdb
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\MainWindow.g.cs
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\App.g.cs
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport_MarkupCompile.cache
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport_MarkupCompile.lref
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\MainWindow.baml
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.g.resources
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.Properties.Resources.resources
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.csproj.GenerateResource.Cache
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.exe
+D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.pdb
