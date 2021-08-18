@@ -28,16 +28,16 @@ namespace Autoexport
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             // Setting end day trial
-            if (DateTime.Now.ToOADate() >= 43800)
-            {
-                textBox2.IsEnabled = false;
-                button1.IsEnabled = false;
-                button2.IsEnabled = false;
-                button3.IsEnabled = false;
-                textBlock.IsEnabled = false;
-                textBox1.IsEnabled = false;
-                System.Windows.MessageBox.Show("Your free trial has ended. Please contact buianhtuan2903@gmail.com for purchase license");
-            }
+            // if (DateTime.Now.ToOADate() >= 43800)
+            // {
+            //     textBox2.IsEnabled = false;
+            //     button1.IsEnabled = false;
+            //     button2.IsEnabled = false;
+            //     button3.IsEnabled = false;
+            //     textBlock.IsEnabled = false;
+            //     textBox1.IsEnabled = false;
+            //     System.Windows.MessageBox.Show("Your free trial has ended. Please contact buianhtuan2903@gmail.com for purchase license");
+            // }
         }
 
         public void button1_Click(object sender, RoutedEventArgs e)
