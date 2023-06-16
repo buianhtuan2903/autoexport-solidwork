@@ -60,11 +60,7 @@ Demo video: [Demo video](https://github.com/anhtuan2903/autoexport-solidwork/blo
 
 **Bui Anh Tuan** - *Personal project* 
 
-- [Facebook](https://www.facebook.com/buianhtuan2903/)
-
-- [LinkedIn](https://www.linkedin.com/in/buianhtuan2903/)
-
-- [Website]()
+- [Website](https://buianhtuan2903.github.io/)
 
 ## License
 
