@@ -1,12 +1,6 @@
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\Autoexport.exe.config
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\Autoexport.exe
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\Autoexport.pdb
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\mscorlib.dll
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\normidna.nlp
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\normnfc.nlp
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\normnfd.nlp
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\normnfkc.nlp
-C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Debug\normnfkd.nlp
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Debug\Autoexport.csprojResolveAssemblyReference.cache
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Debug\MainWindow.g.cs
 C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Debug\App.g.cs

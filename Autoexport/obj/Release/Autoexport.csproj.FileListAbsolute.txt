@@ -11,3 +11,16 @@ D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.Properties.Resources.
 D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.csproj.GenerateResource.Cache
 D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.exe
 D:\2019_Macro\Autoexport\Autoexport\obj\Release\Autoexport.pdb
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Release\Autoexport.exe.config
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport.exe
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport.pdb
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Release\Autoexport.exe
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\bin\Release\Autoexport.pdb
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\MainWindow.g.cs
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\App.g.cs
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport_MarkupCompile.cache
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport_MarkupCompile.lref
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\MainWindow.baml
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport.g.resources
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport.Properties.Resources.resources
+C:\Users\buian\Downloads\autoexport-solidwork\Autoexport\obj\Release\Autoexport.csproj.GenerateResource.Cache

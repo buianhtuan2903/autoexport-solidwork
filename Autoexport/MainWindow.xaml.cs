@@ -36,7 +36,7 @@ namespace Autoexport
             //     button3.IsEnabled = false;
             //     textBlock.IsEnabled = false;
             //     textBox1.IsEnabled = false;
-            //     System.Windows.MessageBox.Show("Your free trial has ended. Please contact buianhtuan2903@gmail.com for purchase license");
+            //     System.Windows.MessageBox.Show(".");
             // }
         }
 
@@ -56,6 +56,7 @@ namespace Autoexport
             listBox1.Items.Clear();
             ProgressBar1.Value = 0;
             System.Windows.Forms.OpenFileDialog openfile = new System.Windows.Forms.OpenFileDialog();
+            openfile.Filter = "Solidworks Drawings|*.slddrw";
             openfile.Multiselect = true;
             if (openfile.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
@@ -68,7 +69,7 @@ namespace Autoexport
             }
             else
             {
-                System.Windows.MessageBox.Show("Please choose files");
+                System.Windows.MessageBox.Show("Please choose Solidworks drawing files");
             }
         }
 
